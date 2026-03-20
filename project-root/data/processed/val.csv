@@ -1,0 +1,7 @@
+tweet_id,author_id,inbound,created_at,text,response_tweet_id,in_response_to_tweet_id
+119282,105847,True,Wed Oct 11 13:46:20 +0000 2017,@SpotifyCares seems to be working at this stage. Will let you know if it happens again. Cheers,119284,119281.0
+119257,SpotifyCares,False,Wed Oct 11 14:00:48 +0000 2017,@105840 Thanks. The distance could possibly affect playback. Does logging out &gt; restarting your device &gt; logging back in make a difference? /AY,119258,119255.0
+119242,105836,True,Tue Oct 10 15:09:00 +0000 2017,@VirginTrains I still haven't heard &amp; the number I'm directed to by phone is a dead end &amp; the live chat doesn't work. Can someone call me?,119240,119246.0
+119310,105855,True,Wed Oct 11 13:31:06 +0000 2017,@Tesco The point is if it's enforced they do it properly or they don't. Plus take some common-sense and think does that person look over 18?,119308,119311.0
+119308,Tesco,False,Wed Oct 11 13:33:07 +0000 2017,"@105855 Hi Thomas, if a colleague believes the person buying alcohol looks under 25, they will be challenged for ID to prove they're of age. - Paige",119309,119310.0
+119330,105859,True,Wed Oct 11 13:50:42 +0000 2017,@105860 I wish Amazon had an option of where I can just get it shipped to the ups store so I can avoid a lot of the struggle,119329,119331.0
